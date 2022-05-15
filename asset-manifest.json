@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/berlin_react_project/static/css/main.f88dbd1b.css",
+    "main.js": "/berlin_react_project/static/js/main.04a719a1.js",
+    "index.html": "/berlin_react_project/index.html",
+    "main.f88dbd1b.css.map": "/berlin_react_project/static/css/main.f88dbd1b.css.map",
+    "main.04a719a1.js.map": "/berlin_react_project/static/js/main.04a719a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88dbd1b.css",
+    "static/js/main.04a719a1.js"
+  ]
+}
