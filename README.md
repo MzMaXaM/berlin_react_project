@@ -1,6 +1,10 @@
+# to see the demo
+
+https://mzmaxam.github.io/berlin_react_project/
+
 ## Install
 
-npm i
+npm install
 
 ## Getting Started
 
@@ -8,11 +12,6 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-
-# Next.js + node.js backened + postgress DB
-
-    This is a template for a Next.js project with API request, 3dr party images (check next.config.js). with login pages.
-    the API request is based on client-side rendering(each time the client request low performance but last data )
 
 ## Warnning
 
