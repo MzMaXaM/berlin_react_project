@@ -1,5 +1,3 @@
-# to see the demo
-
 https://mzmaxam.github.io/berlin_react_project/
 
 ## Install
